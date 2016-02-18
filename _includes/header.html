@@ -20,7 +20,7 @@
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="#" title="link to {{ site.title }} blog" class="blog-button">Resume</a></li>
+              <li class="navigation__item"><a href="https://raw.githubusercontent.com/Diksha-Rathi/Resume-LaTeX/master/Resume.pdf" title="Download/View Resume" class="blog-button">Resume</a></li>
             </ul>
           </nav>
 
@@ -50,8 +50,8 @@
             {% if site.author.codechef_username %}
               <!-- CodeChef -->
               <li class="navigation__item">
-                <a href="https://www.codechef.com/users/{{ site.author.codechef_username }}" title="{{ site.author.lcodechef_username }} on CodeChef" target="_blank">
-                  <i class="icon icon-social-linkedin"></i>
+                <a href="https://www.codechef.com/users/{{ site.author.codechef_username }}" title="{{ site.author.codechef_username }} on CodeChef" target="_blank">
+                   <img src="{{ "images/codechef.png" | prepend: site.baseurl }}">
                   <span class="label">CodeChef</span>
                 </a>
               </li>
@@ -70,7 +70,7 @@
             {% if site.author.email %}
               <!-- Email -->
               <li class="navigation__item">
-                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                <a href="mailto:{{ site.author.email }}" title="Email: {{ site.author.email }}" target="_blank">
                   <i class="icon icon-mail"></i>
                   <span class="label">Email</span>
                 </a>

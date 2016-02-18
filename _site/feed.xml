@@ -3,10 +3,10 @@
   <channel>
     <title>Diksha</title>
     <description>Web Developer- CS Undergraduate 2017</description>
-    <link>https://diksha-rathi.github.io/https://diksha-rathi.github.io//</link>
-    <atom:link href="https://diksha-rathi.github.io/https://diksha-rathi.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 18 Feb 2016 15:56:54 +0530</pubDate>
-    <lastBuildDate>Thu, 18 Feb 2016 15:56:54 +0530</lastBuildDate>
+    <link>https://diksha-rathi.github.io/jekyll-uno//</link>
+    <atom:link href="https://diksha-rathi.github.io/jekyll-uno//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 18 Feb 2016 16:27:25 +0530</pubDate>
+    <lastBuildDate>Thu, 18 Feb 2016 16:27:25 +0530</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 20:34:23 +0530</pubDate>
-        <link>https://diksha-rathi.github.io/https://diksha-rathi.github.io//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">https://diksha-rathi.github.io/https://diksha-rathi.github.io//2016/welcome-to-jekyll/</guid>
+        <link>https://diksha-rathi.github.io/jekyll-uno//2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://diksha-rathi.github.io/jekyll-uno//2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         

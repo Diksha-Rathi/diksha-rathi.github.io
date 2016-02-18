@@ -15,7 +15,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
-  if (window.location.pathname !== 'https://diksha-rathi.github.io' && window.location.pathname !== 'https://diksha-rathi.github.ioindex.html') {
+  if (window.location.pathname !== 'https://diksha-rathi.github.io/' && window.location.pathname !== 'https://diksha-rathi.github.io/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 

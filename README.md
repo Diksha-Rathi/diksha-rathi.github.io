@@ -1,2 +1,5 @@
 # diksha-rathi.github.io
-Personal Website
+
+Website and Blog
+
+[Thanks](https://github.com/joshgerdes/jekyll-uno)

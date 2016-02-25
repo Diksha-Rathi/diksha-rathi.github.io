@@ -3,13 +3,13 @@
   <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
 </span>
   
-<header class="panel-cover" style="background-image: url({{ "images/cover.jpg" | prepend: site.baseurl }})">
+<header class="panel-cover" style="background-image: url({{ "static/images/cover.jpg" | prepend: site.baseurl }})">
   <div class="panel-main">
 
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
         <a href="{{ site.baseurl }}" title="link to home of {{ site.title }}">
-          <img src="{{ "images/profile.jpg" | prepend: site.baseurl }}" class="user-image" alt="My Profile Photo">
+          <img src="{{ "static/images/profile.jpg" | prepend: site.baseurl }}" class="user-image" alt="My Profile Photo">
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
         </a>
         <hr class="panel-cover__divider">
@@ -51,7 +51,7 @@
               <!-- CodeChef -->
               <li class="navigation__item">
                 <a href="https://www.codechef.com/users/{{ site.author.codechef_username }}" title="{{ site.author.codechef_username }} on CodeChef" target="_blank">
-                   <img src="{{ "images/codechef.png" | prepend: site.baseurl }}">
+                   <img src="{{ "static/images/codechef.png" | prepend: site.baseurl }}">
                   <span class="label">CodeChef</span>
                 </a>
               </li>

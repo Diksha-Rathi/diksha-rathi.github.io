@@ -2,7 +2,7 @@
 title: Diksha
 description: 'I am currently pursuing my Bachelor of Technology in Computer Science. I love to code and learn new technologies. DJango, Website Development and Algorithms fascinate me. I am a core team member of CodeBenders- programming club and CodeChef campus chapter of my college. I like to encourage girls to code.'
 url: 'https://diksha-rathi.github.io/'
-baseurl: 'https://diksha-rathi.github.io/'
+baseurl: ''
 google_analytics: 'UA-74332052-1'
 # disqus_shortname: 'your-disqus-name'
 
@@ -11,7 +11,6 @@ author:
   email: diksha.2895@gmail.com
   github_username:  diksha-rathi
   linkedin_username:  diksharathi
-  codechef_username:  codegirl1995
   twitter_username: diksha_28795
   #facebook_username: username
 

@@ -955,7 +955,7 @@ h5 {
 	margin-bottom: .4em;
 	font-family: "Roboto Slab", serif;
 	font-weight: lighter;
-	color: #333333;
+	color: #000000;
 	-webkit-font-smoothing: antialiased; }
 
 h1 {
@@ -1045,7 +1045,7 @@ pre {
 .author,
 .tags {
 	font-size: .8em;
-	color: #c7c7c7; }
+	color: #4183D7; }
 	.date a,
 	.time a,
 	.author a,
@@ -1109,18 +1109,18 @@ pre {
 .footer {
 	display: block;
 	padding: 2em 0 0 0;
-	border-top: 2px solid #dddddd;
+	border-top: 2px solid #D14233;
 	font-size: .7em;
-	color: #b3b3b3; }
+	color: #000; }
 
 .footer__copyright {
 	display: block;
 	margin-bottom: .7em; }
 	.footer__copyright a {
-		color: #a6a6a6;
+		color: #000;
 		text-decoration: underline; }
 		.footer__copyright a:hover {
-			color: #b9301c; }
+			color: #000; }
 
 .avatar,
 .logo {
@@ -1210,7 +1210,7 @@ hr {
 	width: 100%;
 	max-width: none;
 	height: 100%;
-	background: url(../images/background-cover.jpg) top left no-repeat #666666;
+	background: url(../images/background-cover.jpg) top left no-repeat #ffffff;
 	background-size: cover; }
 
 .panel-cover--collapsed {
@@ -1225,9 +1225,9 @@ hr {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background-color: rgba(68, 68, 68, 0.6);
-	background-image: -webkit-linear-gradient(-410deg, rgba(68, 68, 68, 0.6) 20%, rgba(0, 0, 0, 0.9));
-	background-image: linear-gradient(140deg,rgba(68, 68, 68, 0.6) 20%, rgba(0, 0, 0, 0.9)); }
+	background-color: rgba(68, 68, 68, 0.7);
+	background-image: -webkit-linear-gradient(-410deg, rgba(68, 68, 68, 0.7) 20%, rgba(0, 0, 0, 0.7));
+	background-image: linear-gradient(140deg,rgba(68, 68, 68, 0.7) 20%, rgba(0, 0, 0, 0.9)); }
 
 .panel-cover__logo {
 	margin-bottom: .2em; }

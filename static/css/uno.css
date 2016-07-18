@@ -992,13 +992,11 @@ em {
 blockquote {
 	margin: 1em 0;
 	padding: 0.5em 0;
-	background: #ECF0F1;
-	border: 1px solid #000000;
-	border-radius: 3px;
+	background: #EEEEEE;
 	font-family: "Roboto Slab", serif;
 	font-weight: lighter;
 	font-style: italic;
-	font-size: 1.3em;
+	font-size: 1em;
 	text-align: left; }
 	blockquote p:last-child {
 		margin-bottom: 0; }

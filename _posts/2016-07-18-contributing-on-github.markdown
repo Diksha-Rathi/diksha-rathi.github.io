@@ -65,9 +65,9 @@ We can use `$ git status` to check the staging progress anytime. Your copy of th
 
 * Click on the link *compare across forks*.
 
-![git-submit-clone](https://raw.githubusercontent.com/Diksha-Rathi/diksha-rathi.github.io/master/static/images/blog/github-submit-clone.png)
+![git-submit-pull](https://raw.githubusercontent.com/Diksha-Rathi/diksha-rathi.github.io/master/static/images/blog/github-submit-pull.png)
 
-* Now, in the selection box that appears below, select the base fork and branch as that of the project repository and head fork and branch that corresponds to your forked version.
+* Now, in the selection box that appears below, select the base fork and branch as that of the original project repository, and head fork and branch to your forked version.
 
 * Review the changes that are highlighted below. Click on *Create Pull Request*. Congratulations, you are done now. 
 

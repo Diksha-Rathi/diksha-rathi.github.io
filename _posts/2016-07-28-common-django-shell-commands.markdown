@@ -10,7 +10,7 @@ Listed below are some of the commonly used shell commands while developing web a
 * Create a project:
 
 ``` shell
- $ django-admin startproject mysite 
+ $ django-admin startproject <project_name> 
 ```
 
 * Create an application:
@@ -60,3 +60,30 @@ Listed below are some of the commonly used shell commands while developing web a
 ``` shell
  $ python manage.py createsuperuser
 ```
+
+* Check Django version:
+
+```shell
+$ python -m django --version
+```
+
+* Upgrade Django:
+
+```shell
+$ python -m django --version
+```
+
+* Change the server's port from the default port 8000
+
+```shell 
+$ python manage.py runserver <port_number>
+````
+
+* Change the server's IP (example- show work on other computers on the network)
+
+```shell
+$ python manage.py runserver 0.0.0.0:<port_number>
+```
+
+
+

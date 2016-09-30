@@ -18,7 +18,7 @@ Here is a quick guide to the arguments of some of the most commonly used functio
 
 * Argument 1: The request object.
 * Argument 2: Template name.
-*Argument 3: A dictionary(ptional). 
+* Argument 3: A dictionary(optional). 
 
 This function returns an HttpResponse object of the given template rendered with the given context
 

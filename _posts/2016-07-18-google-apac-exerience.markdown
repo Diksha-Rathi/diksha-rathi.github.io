@@ -5,4 +5,6 @@ categories: [scholarship]
 tags: [scholarship]
 ---
 
+![group-photo](https://raw.githubusercontent.com/Diksha-Rathi/diksha-rathi.github.io/master/static/images/blog/google-retreat.JPG)
+
 I will be writing on this soon. 

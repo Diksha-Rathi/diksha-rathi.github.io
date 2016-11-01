@@ -1189,7 +1189,7 @@ hr {
 
 .panel-title {
 	margin: 0 0 5px 0;
-	font-size: 2.5em;
+	font-size: 2.1em;
 	letter-spacing: 4px;
 	color: #FFF; }
 
@@ -1231,7 +1231,8 @@ hr {
 	margin-bottom: .2em; }
 
 .panel-cover__description {
-	margin: 0 30px; }
+	margin: 0 30px;
+	font-size: .85em; }
 
 .panel-cover__divider {
 	width: 50%;
@@ -1570,7 +1571,7 @@ input[type="tel"] {
 
 	.panel-cover__description {
 		margin: 0 10px;
-		font-size: .8em; }
+		font-size: .73em; }
 
 	.navigation--social {
 		margin-top: 5px;

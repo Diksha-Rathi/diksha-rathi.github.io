@@ -49,6 +49,16 @@
               </li>
             {% endif %}
 
+            {% if site.author.pinterest_username %}
+              <!-- Pinterest -->
+              <li class="navigation__item">
+                <a href="https://in.pinterest.com/{{ site.author.pinterest_username }}" title="{{ site.author.pinterest_username }} on Pinterest" target="_blank">
+                  <i class="icon icon-social-pinterest"></i>
+                  <span class="label">Pinterest</span>
+                </a>
+              </li>
+            {% endif %}
+
             {% if site.author.twitter_username %}
               <!-- Twitter -->
               <li class="navigation__item">

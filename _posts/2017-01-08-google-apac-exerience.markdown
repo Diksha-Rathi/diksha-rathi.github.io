@@ -59,7 +59,7 @@ The best opportunities are always a submission away. If you are a woman who is r
 
 This greeted us when we reached our room on arrival.
 
-[welcome-pie](https://raw.githubusercontent.com/Diksha-Rathi/diksha-rathi.github.io/master/static/images/blog/welcome-pie.JPG)
+![welcome-pie](https://raw.githubusercontent.com/Diksha-Rathi/diksha-rathi.github.io/master/static/images/blog/welcome-pie.JPG)
 
 Receiving the certificate on the final day of the Retreat.
 

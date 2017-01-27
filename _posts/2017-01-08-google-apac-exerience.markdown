@@ -17,7 +17,7 @@ Later, in the month of July, I received an email which stated that I have a tele
 
 ### How I prepared?
 
-I did my little homework before the interview. Re- read the answers to the questions that I had submitted. Then, went through my resume and projects. Not to forget, made sure my mobile was fully charged. 
+I did my little homework before the interview. Re- read the answers to the questions that I had submitted. Then, went through my resume and projects. Not to forget, made sure my mobile was fully charged. Since, the scholarship mentioned that it is based on the academic and leadership achievement of an individual, I also re- visited some of the challenges that I had faced with the teams that I have led in college and how I worked on overcoming them. 
 
 ### The Interview
 
@@ -41,7 +41,7 @@ We had sessions which were about bias busting, the work culture at Google, Tech 
 
 ### My Experience
 
-Post the Google Retreat, my journey has shaped up in a way that I had not ever thought about back in 2014 when I had started the first programming club at my college to motivate girls to participate in competitive programming competitions which over the time I had nurtured to become more inclusive and include promoting open source and other computer science related events too. The idea was to code be it through competitions, hackathons or open source organizations. Today, we have a community in college which talks about GSoC, ACM- ICPC, which was a distant reality back then, when I had completed my freshmen year at college. The Google Retreat gave me a vision when after two years of working on this, I was left with little idea on how to scale up this initiative. 
+Post the Google Retreat, my journey has shaped up in a way that I had not ever thought about back in 2014 when I had started the first programming club at my college to motivate girls to participate in competitive programming competitions which over the time I had nurtured to become more inclusive and include promoting open source and other computer science related events too. The idea was to code be it through competitions, hackathons or open source organizations. Today, we have a community in college which talks about GSoC, ACM- ICPC, which was a distant reality back then, when I had completed my freshmen year at college. The Google Retreat enlightened me with a vision for the related future work, when after two years of working on this I was left with little idea on how to scale up this initiative. 
 
 This scholarship has been the best inspirational and motivational journey for me.
 

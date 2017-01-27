@@ -13,3 +13,4 @@ tags: [Programming]
 
 * Left shift is equivalent to multiplying the bit pattern with 2^k. Right shift is equivalent to dividing the bit pattern with 2^k. (Here, k denotes the number of bits shifted left/ right.)
 
+[Source code](https://github.com/Diksha-Rathi/Competitive-Programming/tree/master/Algorithms/Bit%20Manipulation) to my submissions of related problems from [HackerRank](https://www.hackerrank.com/domains/algorithms/bit-manipulation/) and [HackerEarth](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/).

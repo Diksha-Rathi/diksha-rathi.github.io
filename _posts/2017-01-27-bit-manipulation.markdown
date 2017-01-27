@@ -5,6 +5,8 @@ categories: [Programming]
 tags: [Programming]
 ---
 
+Below, I have compiled a 2- minute quick read for solving programming challenges based on Bit Manipulation.
+
 * The bitwise XOR of numbers which occur even number of times will always be zero.
 
 * To find the number of set bits in a number X, bitwise AND X and X-1. The number of times this operation is successful gives the number of set bits. 

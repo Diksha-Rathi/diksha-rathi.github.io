@@ -1,7 +1,7 @@
 ---
 title:  "My Google Anita Borg Scholarship: Asia- Pacific Experience"
 date:   2017-01-09 11:04:23
-categories: [scholarship]
+categories: [Experiences]
 tags: [scholarship]
 ---
 

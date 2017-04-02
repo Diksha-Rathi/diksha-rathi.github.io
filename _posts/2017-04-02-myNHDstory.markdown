@@ -1,6 +1,6 @@
 ---
 title:  "Microsoft New Hires' Day- My Story"
-date:   2017-03-30 01:00
+date:   2017-04-02 9:00
 categories: [Experiences]
 tags: [Microsoft]
 ---

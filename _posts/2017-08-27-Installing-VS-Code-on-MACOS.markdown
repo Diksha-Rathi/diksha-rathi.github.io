@@ -14,7 +14,7 @@ Visual Studio Code doesn't come with a compiler for CPP. So, you can choose your
 * Download XCode from the App Store.
 * Download Visual Studio Code from [https://code.visualstudio.com](https://code.visualstudio.com).
 * Once the installation is complete, open Visual Studio Code.
-* Install the CPP extension for Intellisense. Go to extensions in the left pane and serach for "C++".
+* Install the CPP extension for Intellisense. Go to extensions in the left pane and search for "C++".
 
 ![VS-14](https://raw.githubusercontent.com/Diksha-Rathi/diksha-rathi.github.io/master/static/images/blog/install-vscode/VSCode-14.png)
 
@@ -86,14 +86,10 @@ This will execute your program successfully.
 
 ![VS-12](https://raw.githubusercontent.com/Diksha-Rathi/diksha-rathi.github.io/master/static/images/blog/install-vscode/VSCode-12.png)
 
-* Change the `program` settings in line 11 of launch.json. Add the name of your object file here after workspaceFolder. 
+* Change the `program` settings in line 11 of launch.json. Add the name of your object file after workspaceFolder. 
 
 ![VS-13](https://raw.githubusercontent.com/Diksha-Rathi/diksha-rathi.github.io/master/static/images/blog/install-vscode/VSCode-13.png)
 
 I hope you enjoyed reading the blog post and this helps in setting you Visual Studio Code on your machine. Visual Studio is absolutely the best compiler I enjoy using every day. 
 
 Happy coding! :) 
-
-
-
-

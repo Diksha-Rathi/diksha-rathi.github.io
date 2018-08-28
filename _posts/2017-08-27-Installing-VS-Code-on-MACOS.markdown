@@ -1,5 +1,5 @@
 ---
-title:  "Install Visual Studio Code on your MacBook and configure it to for CPP"
+title:  "Install Visual Studio Code on your MacBook and configure it for CPP"
 date:   2017-08-27 11:04:23
 categories: [Visual Studio]
 tags: [Microsoft]

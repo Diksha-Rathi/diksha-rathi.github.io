@@ -2,7 +2,7 @@
 title:  "Key to most commonly used django shell commands"
 date:   2016-07-12 15:04:23
 categories: [shell commands]
-tags: [Django]
+tags: [DJango]
 ---
 
 Listed below are some of the commonly used shell commands while developing web applications in Django:

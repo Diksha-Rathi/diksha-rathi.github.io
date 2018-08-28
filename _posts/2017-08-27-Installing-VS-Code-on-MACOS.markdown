@@ -1,8 +1,8 @@
 ---
-title:  "How to install Visual Studio code on your MacBook?"
+title:  "Install Visual Studio Code on your MacBook and configure it to for CPP"
 date:   2017-08-27 11:04:23
-categories: [Microsoft]
-tags: [VSCode]
+categories: [Visual Studio]
+tags: [Microsoft]
 ---
 
 I used to be frequent with practicing problems from CodeChef/ Hackerrank when I was in a university. The transition to a corporate life one year back took me on a break. One fine evening, I realized I am missing something in life and that bought me back to get started again with what I have always loved. 

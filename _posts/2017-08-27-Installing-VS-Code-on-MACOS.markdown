@@ -5,9 +5,9 @@ categories: [Visual Studio]
 tags: [Microsoft]
 ---
 
-I used to be frequent with practicing problems from CodeChef/ Hackerrank when I was in a university. The transition to a corporate life one year back took me on a break. One fine evening, I realized I am missing something in life and that bought me back to get started again with what I have always loved. 
+I used to be frequent with practicing problems from CodeChef/ HackerRank back in college. The transition to a corporate life one year back took me on a break. One fine evening, I realized I am missing something and that bought me back to Algorithmic challenges.
 
-It's been a year now since I have been working at Microsoft. The transition from Python/ Sublime/ Git to C#/ Visual Studio/ TFS has been one interesting journey. The most important of this has been how I have fallen in love with everything magical that Visual Studio does with your code. So, the obvious next step for me was to install the Visual Studio Code on my personal laptop before I jump into solving Algorithmic problems again. In this blog, I mention the installation process and how you can compile a CPP code using VS Code. 
+It's been a year now since I have been working at Microsoft. The transition from Python/ Sublime/ Git to C#/ Visual Studio/ TFS has been one interesting journey.  A crucial part of this comes from the magic that Visual Studio does with any piece of code. So, the obvious next step for me was to install the Visual Studio Code on my personal laptop before I jump into solving Algorithmic problems again. In this blog, I mention the installation process and how you can compile a CPP code using VS Code. 
 
 Visual Studio Code doesn't come with a compiler for CPP. So, you can choose your own compiler. I decided to use GCC. Let's go ahead with the installation process. In this example, I will be creating a simple program to print "Hello, World!".
 
@@ -90,6 +90,6 @@ This will execute your program successfully.
 
 ![VS-13](https://raw.githubusercontent.com/Diksha-Rathi/diksha-rathi.github.io/master/static/images/blog/install-vscode/VSCode-13.png)
 
-I hope you enjoyed reading the blog post and this helps in setting you Visual Studio Code on your machine. Visual Studio is absolutely the best compiler I enjoy using every day. 
+I hope you enjoyed reading the blog post and this helped in setting the Visual Studio Code on your machine. Visual Studio is absolutely the best compiler that I enjoy using every day. 
 
 Happy coding! :) 

@@ -1,6 +1,6 @@
 # Site settings
 title: Diksha
-description: 'Hi, I am Diksha, currently exploring my developer instincts at Microsoft. I am one of the 50 recipients from Asia- Pacific of the Google Anita Borg Scholarship- 2016. I am involved with initiatives to encourage women in STEM. When I am not coding, I write, craft DIYs, paint, and capture the world and emotions around. I also have a keen interest in the Indian History and enjoy public speaking.'
+description: 'Hi, I am Diksha, currently exploring my developer instincts at Microsoft. I am one of the 50 recipients from Asia- Pacific of the Google Anita Borg Scholarship- 2016. I am involved with initiatives to encourage women in STEM. When I am not around my laptop, I love to spend my time running/ cycling on the roads of Hyderabad.'
 url: 'http://diksha-rathi.github.io'
 baseurl: ''
 google_analytics: 'UA-74332052-1'
@@ -36,5 +36,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']

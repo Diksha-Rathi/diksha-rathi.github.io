@@ -1,5 +1,5 @@
 ---
-title:  "Day 1//30 - Competitive Programming"
+title:  "Day 1/30 - Competitive Programming"
 date:   2020-09-27 00:00:00
 categories: [Programming]
 tags: [Programming]

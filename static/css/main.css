@@ -54,3 +54,53 @@ pre.highlight code,
   border: 3px solid #fff;
   border-radius:100%;
 }
+
+.training-table {
+  width: 100%;
+  margin: 10px 0 30px;
+  font-size: 14px;
+}
+
+.training-table th,
+.training-table td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #ececec;
+  text-align: left;
+}
+
+.training-table th {
+  color: #666666;
+  font-weight: bold;
+}
+
+.training-table__date {
+  color: #999999;
+  font-size: 12px;
+}
+
+.training-table__nowrap {
+  white-space: nowrap;
+}
+
+.training-chart {
+  margin-bottom: 40px;
+}
+
+.training-select {
+  margin: 0 0 15px 8px;
+  padding: 4px 8px;
+  font-size: 14px;
+}
+
+.training-hub__card {
+  display: block;
+  margin: 20px 0;
+  padding: 15px 20px;
+  border: 1px solid #ececec;
+  border-radius: 6px;
+  color: inherit;
+}
+
+.training-hub__card:hover {
+  border-color: #e25440;
+}

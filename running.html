@@ -1,0 +1,53 @@
+---
+layout: page
+title: Running
+permalink: /training/running/
+---
+<p><a href="{{ site.baseurl }}/training/">&larr; Training</a></p>
+
+<h3>Personal bests</h3>
+<table class="training-table">
+  <thead><tr><th>Run</th><th>Time</th><th>Pace (/km)</th><th>Date</th></tr></thead>
+  <tbody>
+  {% assign run_groups = site.data.runs | sort: "distance_km" | group_by: "type" %}
+  {% for g in run_groups %}
+    {% assign best_secs = nil %}
+    {% for r in g.items %}
+      {% include run-stats.html run=r %}
+      {% if best_secs == nil or run_secs < best_secs %}
+        {% assign best_secs = run_secs %}
+        {% assign best = r %}
+        {% assign best_pace = run_pace %}
+      {% endif %}
+    {% endfor %}
+    <tr><td>{{ g.name }}</td><td>{{ best.time }}</td><td>{{ best_pace }}</td><td class="training-table__nowrap">{{ best.date | date: "%d %b %Y" }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+<canvas id="runs-chart" class="training-chart"></canvas>
+
+<h3>Log history</h3>
+<label for="run-select">Distance</label>
+<select id="run-select" class="training-select">
+  <option value="">All distances</option>
+  {% for g in run_groups %}<option value="{{ g.name | escape }}">{{ g.name }}</option>{% endfor %}
+</select>
+<table class="training-table" id="run-history">
+  <thead><tr><th>Date</th><th>Run</th><th>Time</th><th>Pace (/km)</th><th>Event</th></tr></thead>
+  <tbody>
+  {% assign runs = site.data.runs | sort: "date" | reverse %}
+  {% for r in runs %}
+    {% include run-stats.html run=r %}
+    <tr data-type="{{ r.type | escape }}">
+      <td class="training-table__nowrap">{{ r.date | date: "%d %b %Y" }}</td>
+      <td>{{ r.type }}</td>
+      <td>{% if r.link %}<a href="{{ r.link }}" target="_blank">{{ r.time }}</a>{% else %}{{ r.time }}{% endif %}</td>
+      <td>{{ run_pace }}</td>
+      <td>{{ r.event }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+{% include training-scripts.html %}

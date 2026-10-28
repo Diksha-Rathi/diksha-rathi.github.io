@@ -1,0 +1,101 @@
+# One entry per key run. time is "mm:ss" or "h:mm:ss"; event and link are optional.
+- type: 10K
+  distance_km: 10
+  time: "1:04:22"
+  date: 2026-10-25
+  event: Salesforce Run (Podium 2nd)
+- type: Half Marathon
+  distance_km: 21.1
+  time: "2:34:23"
+  date: 2026-08-30
+  event: NMDC Hyderabad Half Marathon
+- type: Half Marathon
+  distance_km: 21.1
+  time: "2:17:50"
+  date: 2026-02-15
+  event: Club Run Half Marathon
+- type: 5K
+  distance_km: 5
+  time: "32:08"
+  date: 2026-02-05
+  event: Just getting started
+- type: Half Marathon
+  distance_km: 21.1
+  time: "2:26:52"
+  date: 2025-08-24
+  event: NMDC Hyderabad Half Marathon
+- type: Half Marathon
+  distance_km: 21.1
+  time: "2:23:11"
+  date: 2025-02-02
+  event: Seva Bharati Half Marathon
+- type: 10K
+  distance_km: 10
+  time: "1:02:56"
+  date: 2024-10-06
+  event: Salesforce Run (Podium 1st)
+- type: Half Marathon
+  distance_km: 21.1
+  time: "2:27:00"
+  date: 2024-08-25
+  event: NMDC Hyderabad Half Marathon
+- type: 5K
+  distance_km: 5
+  time: "32:30"
+  date: 2024-02-18
+  event: Sunday, before the dosa
+- type: Half Marathon
+  distance_km: 21.1
+  time: "2:26:49"
+  date: 2023-10-15
+  event: Vedanta Delhi Half Marathon
+- type: Half Marathon
+  distance_km: 21.1
+  time: "2:30:35"
+  date: 2023-02-19
+  event: Club Run Half Marathon
+- type: 5K
+  distance_km: 5
+  time: "30:42"
+  date: 2023-01-01
+  event: After lockdown
+- type: 5K
+  distance_km: 5
+  time: "29:31"
+  date: 2021-08-05
+  event: Outran a stray dog (PB)
+- type: 10K
+  distance_km: 10
+  time: "59:25"
+  date: 2020-02-22
+  event: Microsoft Run (Podium 2nd)
+- type: 5K
+  distance_km: 5
+  time: "31:32"
+  date: 2020-02-06
+  event: A quick 5K before leaving for office
+- type: 5K
+  distance_km: 5
+  time: "29:56"
+  date: 2020-01-11
+  event: A nose-y run
+- type: Half Marathon
+  distance_km: 21.1
+  time: "2:11:39"
+  date: 2019-12-22
+  event: SBI Green Half Marathon
+- type: Half Marathon
+  distance_km: 21.1
+  time: "2:39:44"
+  date: 2019-08-25
+  event: Airtel Hyderabad Half Marathon
+- type: 25K
+  distance_km: 25
+  time: "3:14:45"
+  date: 2018-11-04
+  event: Hyderabad Ultra Half Marathon
+- type: Half Marathon
+  distance_km: 21.1
+  time: "2:50:21"
+  date: 2018-08-26
+  event: Airtel Hyderabad Half Marathon

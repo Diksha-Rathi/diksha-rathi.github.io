@@ -1,0 +1,15 @@
+{% comment %}Sets run_secs and run_pace (m:ss per km) for include.run.{% endcomment %}
+{% assign t = include.run.time | split: ":" %}
+{% if t.size == 3 %}
+  {% assign run_secs = t[0] | times: 3600 %}
+  {% assign m = t[1] | times: 60 %}
+  {% assign run_secs = run_secs | plus: m | plus: t[2] %}
+{% else %}
+  {% assign run_secs = t[0] | times: 60 | plus: t[1] %}
+{% endif %}
+{% assign km = include.run.distance_km | times: 1.0 %}
+{% assign p = run_secs | divided_by: km | round %}
+{% assign p_min = p | divided_by: 60 %}
+{% assign p_sec = p | modulo: 60 %}
+{% if p_sec < 10 %}{% assign p_sec = p_sec | prepend: "0" %}{% endif %}
+{% assign run_pace = p_min | append: ":" | append: p_sec %}

@@ -1,0 +1,21 @@
+---
+layout: page
+title: Training Log
+permalink: /training/
+---
+{% assign latest_lift = site.data.lifts | sort: "date" | last %}
+{% assign latest_run = site.data.runs | sort: "date" | last %}
+{% assign run_groups = site.data.runs | group_by: "type" %}
+
+<div class="training-hub">
+  <a class="training-hub__card" href="{{ site.baseurl }}/training/crossfit/">
+    <h3>CrossFit &rarr;</h3>
+    <p>Where the barbell keeps score.</p>
+    {% if latest_lift %}<p class="training-table__date">Latest PR: {{ latest_lift.lift }} {{ latest_lift.reps }}RM, {{ latest_lift.weight_kg }} kg &middot; {{ latest_lift.date | date: "%d %b %Y" }}</p>{% endif %}
+  </a>
+  <a class="training-hub__card" href="{{ site.baseurl }}/training/running/">
+    <h3>Running &rarr;</h3>
+    <p>Best times and pace trends across {{ run_groups.size }} distances.</p>
+    {% if latest_run %}<p class="training-table__date">Latest: {{ latest_run.type }}, {{ latest_run.time }} &middot; {{ latest_run.date | date: "%d %b %Y" }}</p>{% endif %}
+  </a>
+</div>

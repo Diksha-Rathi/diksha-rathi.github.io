@@ -1,0 +1,42 @@
+# One entry per PR: a movement lifted for a given number of reps on a given day.
+# The CrossFit page shows the heaviest weight per movement for each rep max (1, 3, 5).
+- lift: Front Squat
+  reps: 3
+  weight_kg: 48
+  date: 2026-10-27
+- lift: Front Squat
+  reps: 1
+  weight_kg: 45
+  date: 2026-09-06
+- lift: Back Squat
+  reps: 5
+  weight_kg: 45
+  date: 2026-10-09
+- lift: Back Squat
+  reps: 5
+  weight_kg: 51
+  date: 2026-06-19
+- lift: Back Squat
+  reps: 1
+  weight_kg: 55
+  date: 2025-01-02
+- lift: Strict Press
+  reps: 1
+  weight_kg: 25
+  date: 2025-01-02
+- lift: Deadlift
+  reps: 1
+  weight_kg: 75
+  date: 2025-01-02
+- lift: Back Squat
+  reps: 1
+  weight_kg: 60
+  date: 2026-08-14
+- lift: Strict Press
+  reps: 1
+  weight_kg: 28
+  date: 2026-08-14
+- lift: Push Press
+  reps: 5
+  weight_kg: 30
+  date: 2026-10-12
